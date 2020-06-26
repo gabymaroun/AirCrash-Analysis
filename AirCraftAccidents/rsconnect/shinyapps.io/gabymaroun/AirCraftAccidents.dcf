@@ -1,0 +1,12 @@
+name: AirCraftAccidents
+title: AirCraftAccidents
+username:
+account: gabymaroun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1709636
+bundleId: 2756355
+url: https://gabymaroun.shinyapps.io/AirCraftAccidents/
+when: 1580146387.98056
+asMultiple: FALSE
+asStatic: FALSE
